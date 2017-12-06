@@ -18,3 +18,5 @@ This is a simple web project. Deployment can be on any web server
 or even local file system.
 
 # How to contribute
+
+Put stuff in and push to origin master.
